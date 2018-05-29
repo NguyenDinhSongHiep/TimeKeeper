@@ -1,0 +1,17 @@
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\TimKeeper.exe.config
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\TimKeeper.exe
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\TimKeeper.pdb
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.csprojAssemblyReference.cache
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.FormAdd.resources
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.FormEdit.resources
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.Form1.resources
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.Properties.Resources.resources
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.csproj.GenerateResource.cache
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.csproj.CoreCompileInputs.cache
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.exe
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.pdb
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\EntityFramework.dll
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\EntityFramework.xml
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiep5_000\source\repos\TimKeeper\TimKeeper\obj\Debug\TimKeeper.csproj.CopyComplete
